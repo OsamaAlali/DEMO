@@ -1,0 +1,40 @@
+body{
+    background-color: gray;
+}
+header{
+    background-color: rgba(187, 145, 55, 0.3);
+    height: 100px;
+    
+}
+header nav{
+    float: right;
+    width: 40%;
+    margin-right: 300px;
+    margin-top: 5px;
+
+}
+header h1{
+    text-align: center;
+    color:blue;
+}
+  header nav ul li{
+    display: inline-block;
+      margin-left: 10px;
+  }
+  header nav ul li a {
+      text-decoration: none;
+      color: black;
+  }
+  #first{
+      color: white;
+      background-color: red;
+  }
+  #spage{
+      background-color: rosybrown;
+  }
+  img{
+      width: 40%;
+      height: 400px;
+      margin-left: 500px;
+      margin-top:100px;
+  }
